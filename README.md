@@ -10,7 +10,7 @@
 
 <p align="left">
     Clique no link a seguir para acessar a aplicação: 
-    <strong><a href="https://todo-42cf8jbln-samuel-barbosa97.vercel.app/" target="_blank">React Calculator</a></strong>
+    <strong><a href="https://calculator-lyart.vercel.app/" target="_blank">React Calculator</a></strong>
 </p>
 
 <p align="left">
