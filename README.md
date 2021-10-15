@@ -1,4 +1,4 @@
-# React Calculator
+# React Calculator 🧮
 <h1 align="left">
     <img 
         src="https://media-exp1.licdn.com/dms/image/C4D12AQGtubYC23MpjA/article-cover_image-shrink_720_1280/0/1617319885551?e=1635984000&v=beta&t=b7zp2cX9QsH-puFqSbVOjcfGHNoB7aDq5QGx3AK7Sh8" 
